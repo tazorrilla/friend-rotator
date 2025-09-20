@@ -1,0 +1,4 @@
+"scripts": {
+  "start": "node app.js",
+  "worker": "node worker.js"
+}
